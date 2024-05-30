@@ -12,7 +12,12 @@
 4. Convergence Analysis
 
 # Tools Used:
-1. MONAI
+1. DENSENET
 2. RESNET
 3. SWIN Transformer
 4. JUPYTER Notebook
+
+## Models division:
+  * Ariel Benvindo - DENSENET
+  * Arthur Fernandes - SWIN Transformer
+  * Maria Eduarda Alves - RESNET50
