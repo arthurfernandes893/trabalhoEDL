@@ -1,4 +1,4 @@
-# Medical Data Classification and Diferent Models Convergence Analysis
+# Pokémon Classification and Diferent Models Convergence Analysis
 * This was the Final Project for the Computer Science "Estruturas de Linguagens" Subject.
 * Team:
   * Ariel Benvindo
